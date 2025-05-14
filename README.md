@@ -2,6 +2,14 @@
 
 Rebalance Charm strategies whenever needed.
 
+> ⚠️ **DEPRECATED – DO NOT USE**
+>
+> This repository is no longer maintained and is **deprecated**.
+>
+> It may contain **outdated, insecure, or vulnerable code** and should **not** be used in production or as a dependency in any project.
+>
+> The repository is retained solely for historical reference. No support, updates, or security patches will be provided.
+
 ### AlphaJob address
 
 Mainnet: https://etherscan.io/address/0xf1e138915ed8cf5b073fa5bd87cf6db39f549650#code
